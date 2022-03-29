@@ -33,7 +33,7 @@ Jinja2==2.10
 MarkupSafe==1.1.1
 more-itertools==4.3.0
 olefile==0.45.1
-paramiko==2.4.2
+paramiko==2.10.1
 passlib==1.7.1
 patreon==0.4.0
 Pillow==4.2.1
