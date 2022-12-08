@@ -1,7 +1,7 @@
 altgraph==0.15
 argh==0.26.2
 beautifulsoup4==4.6.0
-certifi==2017.11.5
+certifi==2022.12.7
 chardet==3.0.4
 click==6.7
 cx-Freeze==5.0.2
